@@ -1,0 +1,56 @@
+.Menu{
+    background-color: rgb(172, 219, 246);
+    height: 120px;
+    position: relative;
+    bottom: 20px;
+}
+
+.Achievements{
+    background-color: rgb(210, 241, 216);
+    float: left;
+    height: 600px;
+    width: 400px;
+    position: relative;
+    bottom: 20px;
+}
+
+.Portrait{
+    position: relative;
+    left: 400px;
+    bottom: 38px;
+    height: 400px;
+    width: 700px;
+}
+
+.Years{
+    background-color: rgb(210, 241, 216);
+    float: right;
+    position: relative;
+    bottom:440px;
+    height: 200px;
+    width: 405px;
+}
+
+.Claim{
+    background-color: rgb(241, 225, 210);
+    position: relative;
+    bottom:240px;
+    left: 405px;
+    float: right;
+    height: 205px;
+    width: 405px;
+}
+
+.Biography{
+    background-color: rgb(172, 219, 246);
+    position: relative;
+    bottom: 65px;
+    left: 400px;
+    height: 200px;
+    width: 1105px;
+}
+
+.logo{
+    position: relative;
+
+}
