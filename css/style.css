@@ -1,5 +1,31 @@
 .Menu{
     background-color: lightskyblue;
     margin-top: 0%;
+    width: 100%;
+    
+}
 
+.Achievements{
+    background-color: lightgreen;
+    float: left;
+    width: 30%;
+}
+
+.Portrait{
+
+}
+.Years{
+    background-color: lightgreen;
+    float: right;
+}
+
+.Claim{
+    background-color: antiquewhite;
+    float: right;
+    
+}
+
+.Biography{
+    background-color: lightskyblue;
+    margin-bottom: 0px;
 }
